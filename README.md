@@ -2,17 +2,22 @@
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="Coding Rain Animation" width="480"/>
 </p>
 
-## 💫 About Me
-Passionate **Python Developer** & **Machine Learning enthusiast** from Tunisia 🇹🇳  
-Bachelor's in Applied Mathematics (Faculty of Sciences of Sfax, 2020-2023)  
-Currently at **Imbert-Mnif** (since March 2025): building full-stack Python apps (Tkinter, ttkbootstrap, MySQL) — contract management, ERP inventory/production modules, automated PDF reports with barcodes, and technical file processing.  
-**Key personal projects**:  
-- Predictive modeling (diabetes, health costs, crypto forecasting with LSTM)  
-- Computer vision (drowsiness detection, DeepFake identification, license plate OCR, radar simulation)  
-- Apps (internet speed analyzer in PyQt5, Telegram bot, Streamlit dashboards)  
-Proficient in **Python, TensorFlow, PyTorch, OpenCV, Pandas, Scikit-learn, Flask, Streamlit, MySQL**  
-Certified by IBM, HP, Simplilearn, AWS & Microsoft (Power BI)  
-Always ready for new AI/ML challenges — let's connect! 🚀
+💫 About Me
+
+Passionate Python Developer and Machine Learning Enthusiast based in Tunisia 🇹🇳.
+Holder of a Bachelor’s degree in Applied Mathematics (Faculty of Sciences of Sfax, 2020–2023).
+
+Currently working at Imbert-Mnif (since March 2025), where I design and develop full-stack Python solutions using Tkinter,Streamlit,flask,PyQt5 , ttkbootstrap, and MySQL. 
+
+🛠 Technical Skills
+
+Python, TensorFlow, PyTorch, OpenCV, Pandas, Scikit-learn, Flask, Streamlit, MySQL
+
+🎓 Certifications
+
+IBM, HP, Simplilearn, AWS, Microsoft (Power BI)
+
+Driven by curiosity and innovation, I’m always eager to take on new AI and ML challenges. Let’s connect and build something impactful 🚀
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/omar.badrani) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omar.badrani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omarbadrani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omarbadrani770@gmail.com)
